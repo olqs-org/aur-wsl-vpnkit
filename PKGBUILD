@@ -1,4 +1,4 @@
-# Maintainer: Your Name <your.email@example.com>
+# Maintainer: Alexander Worlitschek <olqs+aur@olqs.de>
 pkgname=wsl-vpnkit
 pkgver=0.4.1
 pkgrel=1
