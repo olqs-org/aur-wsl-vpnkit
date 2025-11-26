@@ -1,0 +1,16 @@
+pkgbase = wsl-vpnkit
+	pkgdesc = Provides network connectivity to WSL 2 when blocked by VPN
+	pkgver = 0.4.1
+	pkgrel = 1
+	url = https://github.com/sakai135/wsl-vpnkit
+	arch = x86_64
+	license = MIT
+	depends = iproute2
+	depends = iptables
+	depends = iputils
+	depends = bind
+	depends = wget
+	source = wsl-vpnkit-0.4.1.tar.gz::https://github.com/sakai135/wsl-vpnkit/releases/download/v0.4.1/wsl-vpnkit.tar.gz
+	sha256sums = 509ef76e6fc0d4d945247b08f323de5b34c6c7ce0b57376680eb8ad7e3a74ed5
+
+pkgname = wsl-vpnkit
